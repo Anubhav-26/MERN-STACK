@@ -1,0 +1,9 @@
+.my_text{
+  text-align:center;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+}
+.your_text {
+  font-size: 25px;
+  line-height:  40px;;
+}

@@ -1,0 +1,19 @@
+.Top_Heading{
+  color: rgb(86, 67, 148);
+}
+/* this is not my heading */
+#heading{
+  color: blueviolet;
+}
+#new_heading{
+  color: aqua;
+}
+p{
+  color: rgb(103, 18, 207);
+}
+.small_heading{
+  color: brown;
+}
+#sparow,#cow{
+  color: rgb(29, 10, 242);
+}

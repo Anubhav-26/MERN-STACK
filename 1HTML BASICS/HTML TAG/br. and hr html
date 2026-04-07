@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BR Tags</title>
+</head>
+<body>
+  <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, ipsam iure saepe ea minus <br><br> 
+    maxime rem,<hr> vel delectus illum dolores tempora nihil reprehenderit quo, veritatis id nesciunt dolorum voluptas hic?</p>
+  
+</body>
+</html>

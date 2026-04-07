@@ -1,0 +1,28 @@
+header{
+  background-color: rgb(42, 155, 225);
+}
+main{
+  background-color: beige;
+}
+#first{
+  color: rgb(245, 10, 139);
+  background-color: azure;
+}
+#Second{
+  color: rgb(19, 113, 207);
+  background-color: rgb(220, 205, 234);
+}
+/* *{
+  margin: 0;
+  padding: 0;
+} */
+ footer{
+  color: rgb(173, 7, 7);
+ }
+ a{
+  color: blue;
+
+ }
+ header{
+  background-color: blanchedalmond;
+ }
